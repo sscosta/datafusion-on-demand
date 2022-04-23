@@ -8,7 +8,7 @@ It can be used to lower costs. Your use case may only require that you have Data
 
 Example:
 
-Basic Data Fusion Instance (per hour) = 1,8$
+Basic Data Fusion Instance (per hour) = 1,8$ (April 2022)
 
 Cost per month 24/7 = 1,8 * 24 * 30 = 1296$
 

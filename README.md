@@ -11,4 +11,5 @@ Example:
 Basic Data Fusion Instance (per hour) = 1,8$
 
 Cost per month 24/7 = 1,8 * 24 * 30 = 1296$
+
 Cost per month 2h per day = 1,8 * 2 * 30 = 108$
